@@ -36,8 +36,34 @@ Com isso em mente o Sr. Boticario contratou nossa empresa, a MACK Solutions SW p
 diárias dos funcionários, garantindo maior precisão e rapidez no atendimento.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
-
+Requisitos Funcionais:
+1. Cadastro de Medicamentos e Produtos:
+- Nome, descrição, fabricante, lote, data de validade e quantidade em estoque. 
+- Preço de venda.
+  
+2. Cadastro de Clientes: 
+- Nome, CPF, telefone e histórico de compras.
+  
+3. Processo de Venda: 
+- Consulta de produtos disponíveis. 
+- Registro de venda associada a um cliente. 
+- Geração de cupom fiscal. 
+- Atualização do estoque.
+  
+4. Controle de Estoque: 
+- Atualização automática após cada venda. 
+- Alerta para itens com estoque baixo.
+  
+5. Relatórios Gerenciais: 
+- Relatórios de vendas diárias, semanais e mensais. 
+- Relatórios de produtos mais vendidos. 
+- Relatórios de clientes mais frequentes.
+  
+6. Autenticação e Controle de Acesso: 
+- Perfis de usuário: atendente e administrador. 
+- Atendentes podem realizar vendas e consultar estoque. 
+- Administradores podem cadastrar produtos, gerar relatórios e visualizar histórico completo.
+  
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
