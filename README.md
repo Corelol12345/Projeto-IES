@@ -3,11 +3,14 @@ Repositório para o projeto de Introdução a Engenharia de Software
 ## ---------------------------------------------------------------
 
 FASE I. Documentar a Análise de Requisitos: 
-  - Identificar e listar os requisitos funcionais e não funcionais. 
+  - Identificar e listar os requisitos funcionais e não funcionais.
+    
 FASE II. Elaborar o Diagrama de Atividade: 
-  - Representar visualmente o fluxo do sistema. 
+  - Representar visualmente o fluxo do sistema.
+    
 FASE III. Criar o Diagrama de Casos de Uso: 
-  - Identificar os atores e casos de uso do sistema. 
+  - Identificar os atores e casos de uso do sistema.
+    
 FASE IV. Descrever os Requisitos dos Casos de Uso: 
   - Especificar cada caso de uso detalhadamente.
     
