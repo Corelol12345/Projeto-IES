@@ -33,7 +33,7 @@ Projeto Mack Solutions SW - Farmacia Vida Saudavel
 *&lt;Projeto de atualização do sistema da Farmacia Vida Saudavel, devido ao crecimento da clientela houve a necessidade de atualizar o sistema utilizado antigamente, que se consistia no uso de anotações em cadernos e planilhas para controlar o estoque e as vendas, devido a esse trabalho manual o erro na contagem de estoque, clientes não cadastrados e dificuldades na gestão financeira se tornaram muito comum.
 
 Com isso em mente o Sr. Boticario contratou nossa empresa, a MACK Solutions SW para criar um sistema que otimize a operação da farmácia. Ele espera um sistema simples e eficiente que facilite as operações 
-diárias dos funcionários, garantindo maior precisão e rapidez no atendimento. gt;*
+diárias dos funcionários, garantindo maior precisão e rapidez no atendimento.gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
