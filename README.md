@@ -2,6 +2,7 @@
 Repositório para o projeto de Introdução a Engenharia de Software
 ## ---------------------------------------------------------------
 
+## Fases do Projeto
 FASE I. Documentar a Análise de Requisitos: 
   - Identificar e listar os requisitos funcionais e não funcionais.
     
