@@ -1,4 +1,4 @@
-# Projeto-MACK Solutions SW
+# Projeto MACK Solutions SW
 Repositório para o projeto de Introdução a Engenharia de Software
 ## ---------------------------------------------------------------
 
