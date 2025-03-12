@@ -38,7 +38,7 @@ diárias dos funcionários, garantindo maior precisão e rapidez no atendimento.
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais:
 1. Cadastro de Medicamentos e Produtos:
-- Nome, descrição, fabricante, lote, data de validade e quantidade em estoque. 
+-- Nome, descrição, fabricante, lote, data de validade e quantidade em estoque. 
 - Preço de venda.
   
 2. Cadastro de Clientes:
