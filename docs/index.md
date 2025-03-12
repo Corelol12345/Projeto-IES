@@ -41,10 +41,10 @@ Requisitos Funcionais:
 - Nome, descrição, fabricante, lote, data de validade e quantidade em estoque. 
 - Preço de venda.
   
-2. Cadastro de Clientes: 
-- Nome, CPF, telefone e histórico de compras.
+2. Cadastro de Clientes:
+3. - Nome, CPF, telefone e histórico de compras.
   
-3. Processo de Venda: 
+4. Processo de Venda: 
 - Consulta de produtos disponíveis. 
 - Registro de venda associada a um cliente. 
 - Geração de cupom fiscal. 
