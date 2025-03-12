@@ -42,7 +42,7 @@ Requisitos Funcionais:
 - Preço de venda.
   
 2. Cadastro de Clientes:
-3. - Nome, CPF, telefone e histórico de compras.
+- Nome, CPF, telefone e histórico de compras.
   
 4. Processo de Venda: 
 - Consulta de produtos disponíveis. 
