@@ -67,6 +67,7 @@ Requisitos Não Funcionais:
 1. Segurança:
    - Deve tratar os dados dos clientes de acordo com a LGPD
    - Deve guardar os dados dos clientes com criptografia
+   - Processo de Login para o colaborador
 
 2. Sistema:
    - Deve ter alta disponibilidade
