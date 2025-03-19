@@ -61,6 +61,9 @@ Requisitos Funcionais:
    - Perfis de usuário: atendente e administrador. 
    - Atendentes podem realizar vendas e consultar estoque. 
    - Administradores podem cadastrar produtos, gerar relatórios e visualizar histórico completo.
+
+![image](https://github.com/user-attachments/assets/ab00061e-df16-4873-a9b0-f773705a6692)
+
   
 Requisitos Não Funcionais:
 
@@ -102,5 +105,5 @@ Requisitos Não Funcionais:
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-![image](https://github.com/user-attachments/assets/79bbfab2-523f-43b0-8865-8d95e443300a)
+*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;
+
