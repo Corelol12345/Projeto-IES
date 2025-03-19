@@ -103,7 +103,4 @@ Requisitos Não Funcionais:
 # Diagrama de Implantação
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
-# Referências
-
-*&lt;Lista de referências&gt;*
+![image](https://github.com/user-attachments/assets/79bbfab2-523f-43b0-8865-8d95e443300a)
