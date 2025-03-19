@@ -1,6 +1,5 @@
 # Projeto MACK Solutions SW
 Repositório para o projeto de Introdução a Engenharia de Software
-## ---------------------------------------------------------------
 
 ## Fases do Projeto
 FASE I. Documentar a Análise de Requisitos: 
