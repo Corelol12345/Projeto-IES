@@ -6,8 +6,6 @@
 Projeto Mack Solutions SW - Farmacia Vida Saudavel
 </center></font>
 
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
-
 **Conteúdo**
 
 - [Autores](#nome-alunos)
