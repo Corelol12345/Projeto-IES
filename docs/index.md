@@ -25,8 +25,8 @@ Projeto Mack Solutions SW - Farmacia Vida Saudavel
 
 # Autores
 
-* Marco Aurélio de Oliveira Guimarães
-* Eduardo Cardozo Pirollo
+* Marco Aurélio de Oliveira Guimarães - 10426798
+* Eduardo Cardozo Pirollo - 10427809
 
 # Descrição do Projeto
 
