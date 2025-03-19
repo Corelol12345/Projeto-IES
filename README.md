@@ -21,7 +21,7 @@ FASE IV. Descrever os Requisitos dos Casos de Uso:
   - Compromisso com o projeto. 
   - Participação durante as aulas.
 
-## 2.3. Fluxo do Sistema 
+## Fluxo do Sistema 
 Segundo os Arquitetos de Software da MACK Solutions SW, o processo típico 
 dentro da farmácia possui as seguintes etapas: 
 
