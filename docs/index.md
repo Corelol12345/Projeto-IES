@@ -50,7 +50,7 @@ Requisitos Funcionais:
    - Geração de cupom fiscal. 
    - Atualização do estoque.
   
-4. Controle de Estoque: 
+4. Controle de Estoque:
    - Atualização automática após cada venda. 
    - Alerta para itens com estoque baixo.
   
@@ -64,6 +64,19 @@ Requisitos Funcionais:
    - Atendentes podem realizar vendas e consultar estoque. 
    - Administradores podem cadastrar produtos, gerar relatórios e visualizar histórico completo.
   
+Requisitos Não Funcionais:
+
+1. Segurança:
+   - Deve tratar os dados dos clientes de acordo com a LGPD
+   - Deve guardar os dados dos clientes com criptografia
+
+2. Sistema:
+   - Deve ter alta disponibilidade
+  
+3. Interface:
+   - Deve ter uma interface de simples complexidade
+
+
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
