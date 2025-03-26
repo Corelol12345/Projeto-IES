@@ -77,9 +77,7 @@ Requisitos Não Funcionais:
 
 
 # Diagrama de Atividades
-
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
-
+![Diagrama de Atividade IES drawio](https://github.com/user-attachments/assets/3cc86146-d8d0-4e82-be92-ad3f9a3c79d0)
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
