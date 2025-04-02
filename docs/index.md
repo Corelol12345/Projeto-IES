@@ -79,9 +79,7 @@ Requisitos Não Funcionais:
 # Diagrama de Atividades
 ![Diagrama de Atividade IES drawio](https://github.com/user-attachments/assets/3cc86146-d8d0-4e82-be92-ad3f9a3c79d0)
 # Diagrama de Casos de Uso
-
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
-
+![diagrama casos de uso IES drawio](https://github.com/user-attachments/assets/57145556-2dbb-4d01-88a7-cf69941a11c8)
 # Descrição dos Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
