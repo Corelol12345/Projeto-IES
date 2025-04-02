@@ -82,7 +82,7 @@ Requisitos Não Funcionais:
 ![diagrama casos de uso IES drawio](https://github.com/user-attachments/assets/57145556-2dbb-4d01-88a7-cf69941a11c8)
 # Descrição dos Casos de Uso
 ###(UC01)
-[Untitled spreadsheet - Sheet2.pdf](https://github.com/user-attachments/files/19567190/Untitled.spreadsheet.-.Sheet2.pdf)
+![image](https://github.com/user-attachments/assets/00b3c22c-fd4b-4701-a85c-ec7fb4e7c40c)
 
 # Diagrama de Sequência
 
