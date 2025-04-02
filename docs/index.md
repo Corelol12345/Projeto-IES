@@ -81,8 +81,8 @@ Requisitos Não Funcionais:
 # Diagrama de Casos de Uso
 ![diagrama casos de uso IES drawio](https://github.com/user-attachments/assets/57145556-2dbb-4d01-88a7-cf69941a11c8)
 # Descrição dos Casos de Uso
-
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+###(UC01)
+[Untitled spreadsheet - Sheet2.pdf](https://github.com/user-attachments/files/19567190/Untitled.spreadsheet.-.Sheet2.pdf)
 
 # Diagrama de Sequência
 
