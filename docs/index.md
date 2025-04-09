@@ -42,16 +42,7 @@ Requisitos Funcionais:
 
 Requisitos Não Funcionais:
 
-1. Segurança:
-   - Deve tratar os dados dos clientes de acordo com a LGPD
-   - Deve guardar os dados dos clientes com criptografia
-   - Processo de Login para o colaborador
-
-2. Sistema:
-   - Deve ter alta disponibilidade
-  
-3. Interface:
-   - Deve ter uma interface de simples complexidade
+![image](https://github.com/user-attachments/assets/8501723d-db3c-46fb-b0f9-8684a0f879ef)
 
 
 # Diagrama de Atividades
