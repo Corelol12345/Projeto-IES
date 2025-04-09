@@ -63,7 +63,8 @@ Requisitos Não Funcionais:
 ![image](https://github.com/user-attachments/assets/e75c4614-f7dd-4dfb-8e1e-e4b9f62950b6)
 
 ### (UC - 03)
-![image](https://github.com/user-attachments/assets/056afccb-7d29-41d1-b549-30ecd30e283e)
+![image](https://github.com/user-attachments/assets/bb2e65a7-c749-4d15-8eb8-c325475bdf35)
+
 
 # Diagrama de Sequência
 
