@@ -67,8 +67,7 @@ Requisitos Não Funcionais:
 ### (UC - 03)
 ![image](https://github.com/user-attachments/assets/bb2e65a7-c749-4d15-8eb8-c325475bdf35)
 ### (UC - 04)
-![image](https://github.com/user-attachments/assets/31ad76d8-ecfb-4a78-94e0-0ae1a070123a)
-
+![image](https://github.com/user-attachments/assets/2d9c3dff-a348-470d-97f8-22d1ab44bcd4)
 
 # Diagrama de Sequência
 
