@@ -79,14 +79,11 @@ Requisitos Não Funcionais:
 # Diagrama de Atividades
 ![Diagrama de Atividade IES drawio](https://github.com/user-attachments/assets/3cc86146-d8d0-4e82-be92-ad3f9a3c79d0)
 # Diagrama de Casos de Uso
-## (UC01)
-![diagrama casos de uso IES drawio (1)](https://github.com/user-attachments/assets/0f073e5a-17d4-4b6a-abdc-e9cc6d4eb2d0)
-
+## (Caso de uso de compra e venda)
+![image](https://github.com/user-attachments/assets/4ff434ba-07f5-42fa-9071-7cbaa22e5c84)
 # Descrição dos Casos de Uso
-## (UC01)
-
-![image](https://github.com/user-attachments/assets/00b3c22c-fd4b-4701-a85c-ec7fb4e7c40c)
-
+## (Caso de uso de compra e venda)
+![image](https://github.com/user-attachments/assets/8374c84e-2824-436e-9daa-02bd1570dc6f)
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
