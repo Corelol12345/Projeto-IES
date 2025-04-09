@@ -56,8 +56,11 @@ Requisitos Não Funcionais:
 ![image](https://github.com/user-attachments/assets/43ddf88f-1037-41d2-a236-e4a2baaee6e2)
 
 # Descrição dos Casos de Uso
-## (UC - 01)
+### (UC - 01)
 ![image](https://github.com/user-attachments/assets/8374c84e-2824-436e-9daa-02bd1570dc6f)
+
+### (UC - 02)
+![image](https://github.com/user-attachments/assets/e75c4614-f7dd-4dfb-8e1e-e4b9f62950b6)
 
 ### (UC - 03)
 ![image](https://github.com/user-attachments/assets/056afccb-7d29-41d1-b549-30ecd30e283e)
