@@ -36,7 +36,7 @@ diárias dos funcionários, garantindo maior precisão e rapidez no atendimento.
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais:
 
-![image](https://github.com/user-attachments/assets/b5155ce2-2c1f-4889-9d97-ac90027e558b)
+![image](https://github.com/user-attachments/assets/75b7fdb0-3d72-48cc-b070-94e9217e3d76)
 
   
 
