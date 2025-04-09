@@ -52,9 +52,16 @@ Requisitos Não Funcionais:
 ![image](https://github.com/user-attachments/assets/4ff434ba-07f5-42fa-9071-7cbaa22e5c84)
 ### (UC - 02)
 ![diagrama casos de uso IES drawio](https://github.com/user-attachments/assets/6e1c8bf8-5722-48f6-8bb3-2e8100e4c2bb)
+### (UC - 03)
+![image](https://github.com/user-attachments/assets/43ddf88f-1037-41d2-a236-e4a2baaee6e2)
+
 # Descrição dos Casos de Uso
 ## (UC - 01)
 ![image](https://github.com/user-attachments/assets/8374c84e-2824-436e-9daa-02bd1570dc6f)
+
+### (UC - 03)
+![image](https://github.com/user-attachments/assets/056afccb-7d29-41d1-b549-30ecd30e283e)
+
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
