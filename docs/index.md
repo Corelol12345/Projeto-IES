@@ -54,6 +54,8 @@ Requisitos Não Funcionais:
 ![diagrama casos de uso IES drawio](https://github.com/user-attachments/assets/6e1c8bf8-5722-48f6-8bb3-2e8100e4c2bb)
 ### (UC - 03)
 ![image](https://github.com/user-attachments/assets/43ddf88f-1037-41d2-a236-e4a2baaee6e2)
+### (UC - 04)
+![image](https://github.com/user-attachments/assets/30d6d887-2ce8-46af-b82a-2a9d16bb079e)
 
 # Descrição dos Casos de Uso
 ### (UC - 01)
