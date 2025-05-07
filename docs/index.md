@@ -72,7 +72,8 @@ Requisitos Não Funcionais:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/user-attachments/assets/7faa89e8-50d5-4efa-adbd-59225b2d2df5)
+
 
 # Diagrama de Classes
 
