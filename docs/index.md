@@ -81,11 +81,12 @@ Requisitos Não Funcionais:
 
 # Diagrama de Estados
 
-![Diagrama de implantacao drawio](https://github.com/user-attachments/assets/585e3911-cf9d-4600-8d1f-8b88808a3154)
+![Diagrama de Estados](https://github.com/user-attachments/assets/585e3911-cf9d-4600-8d1f-8b88808a3154)
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Diagrama de implantacao](https://github.com/user-attachments/assets/ae74f6fa-5148-4ef5-ae3c-a550d318b9fd)
+
 
 # Referências
 
