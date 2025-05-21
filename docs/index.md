@@ -81,7 +81,8 @@ Requisitos Não Funcionais:
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![diagramadeClasse drawio](https://github.com/user-attachments/assets/b1511aad-1622-45b1-a941-cc8ef122dad4)
+
 
 # Diagrama de Implantação
 
