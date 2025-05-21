@@ -81,8 +81,7 @@ Requisitos Não Funcionais:
 
 # Diagrama de Estados
 
-![diagramadeClasse drawio](https://github.com/user-attachments/assets/b1511aad-1622-45b1-a941-cc8ef122dad4)
-
+![Diagrama de implantacao drawio](https://github.com/user-attachments/assets/585e3911-cf9d-4600-8d1f-8b88808a3154)
 
 # Diagrama de Implantação
 
