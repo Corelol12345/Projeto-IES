@@ -77,7 +77,7 @@ Requisitos Não Funcionais:
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![diagramadeClasse drawio](https://github.com/user-attachments/assets/3c5807ef-bcd9-4c41-95e3-082103a8fd09)
 
 # Diagrama de Estados
 
